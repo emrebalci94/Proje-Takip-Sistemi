@@ -1,0 +1,117 @@
+c:\users\onur\documents\visual studio 2010\Projects\projeTakip\projeTakip\bin\Debug\projeTakip.exe
+c:\users\onur\documents\visual studio 2010\Projects\projeTakip\projeTakip\bin\Debug\projeTakip.pdb
+c:\users\onur\documents\visual studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.anaForm.resources
+c:\users\onur\documents\visual studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.csproj.GenerateResource.Cache
+c:\users\onur\documents\visual studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.exe
+c:\users\onur\documents\visual studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.pdb
+C:\Users\Onur\documents\visual studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.projeIslemleri.resources
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.acilis.resources
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.gorevliIslemleri.resources
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.gorevIslemleri.resources
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.projeDurum.resources
+G:\Users\Onur\Documents\Visual Studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.exe
+G:\Users\Onur\Documents\Visual Studio 2010\Projects\projeTakip\projeTakip\obj\x86\Debug\projeTakip.pdb
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.exe
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.pdb
+G:\projeTakip\projeTakip\bin\Debug\projeTakip.exe
+G:\projeTakip\projeTakip\bin\Debug\projeTakip.pdb
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.csprojResolveAssemblyReference.cache
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.acilis.resources
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.anaForm.resources
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.gorevIslemleri.resources
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.gorevliIslemleri.resources
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.projeDurum.resources
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.projeIslemleri.resources
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.Properties.Resources.resources
+G:\projeTakip\projeTakip\obj\x86\Debug\projeTakip.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.pdb
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\bin\Debug\projeTakip.exe
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\bin\Debug\projeTakip.pdb
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.acilis.resources
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.anaForm.resources
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.gorevIslemleri.resources
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.gorevliIslemleri.resources
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeDurum.resources
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeIslemleri.resources
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.Properties.Resources.resources
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.exe
+C:\Users\Pc\Desktop\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeDetay.resources
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.exe
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.pdb
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\bin\Debug\projeTakip.exe
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\bin\Debug\projeTakip.pdb
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.acilis.resources
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.anaForm.resources
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.gorevIslemleri.resources
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.gorevliIslemleri.resources
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeDetay.resources
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeDurum.resources
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeIslemleri.resources
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.Properties.Resources.resources
+C:\Users\Onur\Desktop\Ders\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.exe
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.pdb
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\bin\Debug\projeTakip.exe
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\bin\Debug\projeTakip.pdb
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.acilis.resources
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.anaForm.resources
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.gorevIslemleri.resources
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.gorevliIslemleri.resources
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeDetay.resources
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeDurum.resources
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeIslemleri.resources
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.Properties.Resources.resources
+C:\Users\Onur\Desktop\Ders\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.exe
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.pdb
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\bin\Debug\projeTakip.exe
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\bin\Debug\projeTakip.pdb
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.acilis.resources
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.anaForm.resources
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.gorevIslemleri.resources
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.gorevliIslemleri.resources
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeDetay.resources
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeDurum.resources
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeIslemleri.resources
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.Properties.Resources.resources
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.hakkimizda.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.exe
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.pdb
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\bin\Debug\projeTakip.exe
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\bin\Debug\projeTakip.pdb
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.acilis.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.anaForm.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.gorevIslemleri.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.gorevliIslemleri.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.hakkimizda.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeDetay.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeDurum.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.projeIslemleri.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.Properties.Resources.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\projeTakipSon\projeTakip\obj\x86\Debug\projeTakip.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.exe
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.pdb
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\bin\Debug\projeTakip.exe
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\bin\Debug\projeTakip.pdb
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.acilis.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.anaForm.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.gorevIslemleri.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.gorevliIslemleri.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.hakkimizda.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.projeDetay.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.projeDurum.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.projeIslemleri.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.Properties.Resources.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.gorevliSecim.resources
+C:\Users\Onur\Desktop\ProjeTakip\ProjeTakipSistemi\Proje Takip Sistemi\projeTakip\obj\x86\Debug\projeTakip.projeSecim.resources

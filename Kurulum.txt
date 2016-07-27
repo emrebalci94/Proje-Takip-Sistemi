@@ -1,0 +1,10 @@
+"SqlConnection baglanti = new SqlConnection(@"Data Source=ONURUZUN\ONURUZUN; Initial Catalog=projeler;Integrated Security=True");"
+Proje Ado.Net ile yapýldýðý için baðlantý yolundaki Data Source kýsmýna Sql server'a girerken gereken server name'i yazmanýz gerekir.
+Veritabanýnýn Adý: "projeler"
+Ana Tablolarý:"gorevli,proje" 'dir.
+
+
+
+
+
+																Proje Takip Sistemi Ekibi

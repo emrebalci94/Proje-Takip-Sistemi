@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B00F7F55-6797-440D-AF31-1235BAFC5DA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>projeTakip</RootNamespace>
+    <AssemblyName>projeTakip</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logoIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acilis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acilis.Designer.cs">
+      <DependentUpon>acilis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anaForm.Designer.cs">
+      <DependentUpon>anaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gorevIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gorevIslemleri.Designer.cs">
+      <DependentUpon>gorevIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gorevliIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gorevliIslemleri.Designer.cs">
+      <DependentUpon>gorevliIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gorevliSecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gorevliSecim.Designer.cs">
+      <DependentUpon>gorevliSecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hakkimizda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hakkimizda.Designer.cs">
+      <DependentUpon>hakkimizda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="projeDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="projeDetay.Designer.cs">
+      <DependentUpon>projeDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="projeDurum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="projeDurum.Designer.cs">
+      <DependentUpon>projeDurum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="projeIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="projeIslemleri.Designer.cs">
+      <DependentUpon>projeIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="projeSecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="projeSecim.Designer.cs">
+      <DependentUpon>projeSecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="acilis.resx">
+      <DependentUpon>acilis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anaForm.resx">
+      <DependentUpon>anaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gorevIslemleri.resx">
+      <DependentUpon>gorevIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gorevliIslemleri.resx">
+      <DependentUpon>gorevliIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gorevliSecim.resx">
+      <DependentUpon>gorevliSecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hakkimizda.resx">
+      <DependentUpon>hakkimizda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="projeDetay.resx">
+      <DependentUpon>projeDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="projeDurum.resx">
+      <DependentUpon>projeDurum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="projeIslemleri.resx">
+      <DependentUpon>projeIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="projeSecim.resx">
+      <DependentUpon>projeSecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logoIcon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
